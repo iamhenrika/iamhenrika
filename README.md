@@ -1,11 +1,9 @@
 <p align="center">
-  <img width="600" height="200" src="https://media.giphy.com/media/WJZHd7NDnfoLrw3ru6/giphy.gif">
+  <img src="https://media.giphy.com/media/WJZHd7NDnfoLrw3ru6/giphy.gif"> <br />
+  ### hello there 👋
 </p>
 
 
-![scenic](https://media.giphy.com/media/WJZHd7NDnfoLrw3ru6/giphy.gif)
-
-### hello there 👋
 
 <!--
 **iamhenrika/iamhenrika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
