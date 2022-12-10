@@ -1,3 +1,8 @@
+<p align="center">
+  <img width="600" height="200" src="https://media.giphy.com/media/WJZHd7NDnfoLrw3ru6/giphy.gif">
+</p>
+
+
 ![scenic](https://media.giphy.com/media/WJZHd7NDnfoLrw3ru6/giphy.gif)
 
 ### hello there 👋
