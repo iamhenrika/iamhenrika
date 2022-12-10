@@ -1,9 +1,6 @@
-<div style="text-align:center;"><img src="https://media.giphy.com/media/WJZHd7NDnfoLrw3ru6/giphy.gif" alt="Logo" />
-
-
 ![scenic](https://media.giphy.com/media/WJZHd7NDnfoLrw3ru6/giphy.gif)
 
-### Hi there 👋
+### hello there 👋
 
 <!--
 **iamhenrika/iamhenrika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
