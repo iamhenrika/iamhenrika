@@ -1,3 +1,6 @@
+<p style="text-align:center;"><img src="https://media.giphy.com/media/WJZHd7NDnfoLrw3ru6/giphy.gif" alt="Logo"></p>
+
+
 ![scenic](https://media.giphy.com/media/WJZHd7NDnfoLrw3ru6/giphy.gif)
 
 ### Hi there 👋
