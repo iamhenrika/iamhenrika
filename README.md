@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://media.giphy.com/media/WJZHd7NDnfoLrw3ru6/giphy.gif"> <br />
   ### hello there 👋
+</p>
 
 # 💫 About Me:
 - 👨‍💻 All of my projects are available at [https://sparkly-puppy-8a9681.netlify.app/](https://sparkly-puppy-8a9681.netlify.app/)
@@ -29,6 +30,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=iamhenrika&icon=8&color=5)](https://visitcount.itsvg.in)</p>
+[![](https://visitcount.itsvg.in/api?id=iamhenrika&icon=8&color=5)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
