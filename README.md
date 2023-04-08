@@ -4,7 +4,7 @@
 </p>
 
 # 💫 About Me:
-- 👨‍💻 All of my projects are available at [https://sparkly-puppy-8a9681.netlify.app/](https://sparkly-puppy-8a9681.netlify.app/)
+- 👨‍💻 All of my projects are available at [my portfolio](https://sparkly-puppy-8a9681.netlify.app/)
 - 🔭 I’m currently working on MERN apps
 - 🌱 I’m currently mastering js
 - ❓ Ask me about anything related to classic films
