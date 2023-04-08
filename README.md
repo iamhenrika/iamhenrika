@@ -4,14 +4,14 @@
 </p>
 
 # 💫 About Me:
-- 👨‍💻 All of my projects are available at [https://sparkly-puppy-8a9681.netlify.app/](https://sparkly-puppy-8a9681.netlify.app/){:target="_blank"}
+- 👨‍💻 All of my projects are available at [https://sparkly-puppy-8a9681.netlify.app/](https://sparkly-puppy-8a9681.netlify.app/)
 - 🔭 I’m currently working on MERN apps
 - 🌱 I’m currently mastering js
 - ❓ Ask me about anything related to classic films
 - ⚡ Fun fact: i am a proud trekkie
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/henrikasmith :target="blank")
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/henrikasmith)
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/iamhenrika)
 <a href="https://codesandbox.io/u/iamhenrika" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="iamhenrika" height="30" width="40" /></a>
 
