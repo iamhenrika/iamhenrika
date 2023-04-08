@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://media.giphy.com/media/WJZHd7NDnfoLrw3ru6/giphy.gif"> <br />
-  ### hello there 👋
+  ### hello there 👋 i'm henrika! a junior full-stack developer.
 </p>
 
 # 💫 About Me:
