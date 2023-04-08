@@ -9,18 +9,14 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamhenrika" alt="iamhenrika" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://sparkly-puppy-8a9681.netlify.app/](https://sparkly-puppy-8a9681.netlify.app/)
-
-- 📫 How to reach me **iamhenrika@gmail.com**
-
-- 📄 Know about my experiences [linkedin.com/henrika.smith](linkedin.com/henrika.smith)
-
+- 
 - ⚡ Fun fact **i'm huge classic movie fan.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/iamhenrika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="iamhenrika" height="30" width="40" /></a>
 <a href="https://twitter.com/iamhenrika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamhenrika" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/iamhenrika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iamhenrika" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/iamhenrika](https://www.linkedin.com/in/henrikasmith/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iamhenrika" height="30" width="40" /></a>
 <a href="https://codesandbox.com/iamhenrika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="iamhenrika" height="30" width="40" /></a>
 <a href="https://fb.com/iamhenrika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="iamhenrika" height="30" width="40" /></a>
 <a href="https://instagram.com/iamhenrika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iamhenrika" height="30" width="40" /></a>
